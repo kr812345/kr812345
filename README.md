@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Krishna Yadav 👋</h1>
 <p align="center">
-  <em>Computer Science & Engineering Student | Full Stack Developer | UI/UX Designer | Tech Explorer</em>
+  <em>Computer Science & Engineering Student | Gen-Ai | Full Stack Developer | UI/UX Designer | Tech Explorer</em>
 </p>
 
 ---
