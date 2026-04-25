@@ -41,7 +41,7 @@ I prefer building things that go beyond demos and actually behave like real syst
 
 <h3>🚀 AutoX — AI Twitter Automation</h3>
 <p>
-<a href="https://auto-x-omega.vercel.app">Live Demo</a><br/>
+<a href="https://auto-x-omega.vercel.app">Try It</a><br/>
 Chrome Extension using LLMs to generate replies and decide engagement automatically.
 </p>
 
